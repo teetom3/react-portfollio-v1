@@ -5,8 +5,7 @@ const subheadingsData = {
         content: (
           <>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua.
+              J'habite à Montlucon, passionné d'informatique depuis l'age de 12 ans sur le hardware, j'ai décidé de me reconvertir dans se métier passionnant qu'est le développement d'applications web et web mobile, désireux de progresser je suis à la recherche d'une entreprise en alternance pour obtenir une licence
             </p>
           </>
         ),
@@ -14,62 +13,28 @@ const subheadingsData = {
     ],
     2: [
       {
-        title: "2016 Masters Degree",
+        title: "2024 TITRE RNCP 5  DWWM",
         content: (
           <>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua.
+              Passé dans le cadre d'une formation en distanciel avec L'ecole en ligne STUDI, j'ai acquis les bases du développement WEB 
             </p>
           </>
         ),
-      },
-      {
-        title: "2014 Bachelors Degree",
-        content: (
-          <>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua.
-            </p>
-          </>
-        ),
-      },
+      }
+      
     ],
     3: [
       {
-        title: "2022 Front End Developer",
+        title: "Developpeur WEB debutant",
         content: (
           <>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua.
+              J'ai creer durant mon année de formation chez STUDI une app de gestion d'évenement pour les golfs en LARAVEL
             </p>
           </>
         ),
-      },
-      {
-        title: "2020 UX Designer",
-        content: (
-          <>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua.
-            </p>
-          </>
-        ),
-      },
-      {
-        title: "2017 IT Consultant",
-        content: (
-          <>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua.
-            </p>
-          </>
-        ),
-      },
+      }
     ],
   };
   

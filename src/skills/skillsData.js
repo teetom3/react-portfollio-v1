@@ -1,0 +1,40 @@
+const skills = {
+    1: [ { title : "HTML",
+    level : 8 },
+    { title : "CSS",
+    level : 8 },
+    { title : "SASS",
+    level : 2 },
+    { title : "JavaScript",
+    level : 5},
+    { title : "TypeScript",
+    level : 0 },
+    { title : "TailWind Css",
+    level : 8},
+    { title : "React Js",
+    level : 8 },
+    { title : "Figma",
+    level : 8 },
+
+    ],
+    2 :  [ { title : "PostgreSQL",
+    level : 8 },
+    { title : "node.js",
+    level : 8 },
+    { title : "MongoDB",
+    level : 2 },
+    { title : "Git",
+    level : 5},
+    { title : "PHP",
+    level : 0 },
+    { title : "SQL",
+    level : 8},
+    { title : "LARAVEL",
+    level : 8 },
+    { title : "Express.js",
+    level : 8 },
+
+    ]
+};
+
+export default skills;

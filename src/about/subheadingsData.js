@@ -26,11 +26,11 @@ const subheadingsData = {
     ],
     3: [
       {
-        title: "Developpeur WEB debutant",
+        title: "Developpeur WEB ",
         content: (
           <>
             <p>
-              J'ai creer durant mon année de formation chez STUDI une app de gestion d'évenement pour les golfs en LARAVEL
+              J'ai créé durant mon année de formation chez STUDI une app de gestion d'évenement pour les golfs en LARAVEL
             </p>
           </>
         ),

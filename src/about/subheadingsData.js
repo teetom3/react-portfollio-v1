@@ -5,7 +5,7 @@ const subheadingsData = {
         content: (
           <>
             <p>
-              J'habite à Montlucon, passionné d'informatique depuis l'age de 12 ans sur le hardware, j'ai décidé de me reconvertir dans se métier passionnant qu'est le développement d'applications web et web mobile, désireux de progresser je suis à la recherche d'une entreprise en alternance pour obtenir une licence
+              Passionné d'informatique depuis l'age de 12 ans sur le hardware, j'ai décidé de me reconvertir dans ce métier passionnant qu'est le développement d'applications web et web mobile, désireux de progresser je suis à la recherche d'une entreprise en alternance pour obtenir une licence
             </p>
           </>
         ),
@@ -30,7 +30,11 @@ const subheadingsData = {
         content: (
           <>
             <p>
-              J'ai créé durant mon année de formation chez STUDI une app de gestion d'évenement pour les golfs en LARAVEL
+            Compétences solides en <b>Laravel, Symfony, React, Node.js, Express et Flutter</b>, je m'efforce de concevoir des solutions innovantes et efficaces pour répondre aux besoins des utilisateurs.
+
+ Vous pouvez consulter mes différents projets en cours pour découvrir mon travail et suivre mon évolution.
+
+N'hésitez pas à me contacter si vous souhaitez collaborer ou discuter de nouvelles opportunités !
             </p>
           </>
         ),
